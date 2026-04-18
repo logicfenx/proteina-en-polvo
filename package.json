@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/proteina-en-polvo",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a proteina-en-polvo",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/proteina-en-polvo.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://impactandlearning.org/es/proteina-en-polvo/"
+    },
+    "homepage": "https://impactandlearning.org/es/proteina-en-polvo/"
+}
